@@ -27,7 +27,7 @@ public static void main(String []args) throws IOException
 	{
 		out.write(dizi[i] + "<");
 	}
-	System.out.println("Masaüstünüzde .txt uzantýlý dosya oluþturuldu.");
+	System.out.println("Sayýlarýn büyükten küçüðe sýralanmýþ hali masaüstünüzdeki .txt uzantýlý dosya içine yazýldý.");
 	out.close();
 	}
 	
