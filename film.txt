@@ -6,7 +6,7 @@
       "rating": 7.2,
       "duration": "131 dakika",
       "director": "Shane Black",
-      "tagline": "Zırhın arkasındaki gücü serbest bırak.",
+      "tagline": "ZÄ±rhÄ±n arkasÄ±ndaki gÃ¼cÃ¼ serbest bÄ±rak.",
       "cast": [
         {
           "name": "Robert Downey Jr."
@@ -22,7 +22,7 @@
         }
       ],
       "image": "https://i.hizliresim.com/4zZOGY.jpg",
-      "story": "Milyarder is adamı, kahraman ve mucit Tony Stark, bu sefer gucu ondan çok daha fazla, hatta sinirsiz bir düsmanla karsı karsıya kalıyor. Üstelik bu düşman, o çok sinirlendirecek bir hamle yaparak özel hayatini yok ediyor."
+      "story": "Milyarder is adamÄ±, kahraman ve mucit Tony Stark, bu sefer gucu ondan Ã§ok daha fazla, hatta sinirsiz bir dÃ¼smanla karsÄ± karsÄ±ya kalÄ±yor. Ãœstelik bu dÃ¼ÅŸman, o Ã§ok sinirlendirecek bir hamle yaparak Ã¶zel hayatini yok ediyor."
     },
 	
 	
@@ -35,7 +35,7 @@
       "rating": 7.5,
       "duration": "135 dakika",
       "director": "Ryan Coogler",
-      "tagline": "Kralım çok yaşa.",
+      "tagline": "KralÄ±m Ã§ok yaÅŸa.",
       "cast": [
         {
           "name": "Chadwick Boseman"
@@ -48,7 +48,7 @@
         }
       ],
       "image": "https://i.hizliresim.com/vPQ75r.jpg",
-      "story": "Babasinin ölümünden sonra Wakanda Krali olan T'Challa, hakki olan tahta sahip çikmak için izole yasayan ancak teknolojik açidan ileri seviyede olan halkina geri döner."
+      "story": "Babasinin Ã¶lÃ¼mÃ¼nden sonra Wakanda Krali olan T'Challa, hakki olan tahta sahip Ã§ikmak iÃ§in izole yasayan ancak teknolojik aÃ§idan ileri seviyede olan halkina geri dÃ¶ner."
     },
     {
       "movie": "Thor: Ragnarok",
@@ -56,7 +56,7 @@
       "rating": 7.9,
       "duration": "130 min",
       "director": "Taika Waititi",
-      "tagline": "Gök gürültüsü saltanatı olacak.",
+      "tagline": "GÃ¶k gÃ¼rÃ¼ltÃ¼sÃ¼ saltanatÄ± olacak.",
       "cast": [
         {
           "name": "Chris Hemsworth"
@@ -66,7 +66,7 @@
         }
       ],
       "image": "https://i.hizliresim.com/morZoy.jpg",
-      "story": "Yaklaşmakta olan Norse kiyametine tanik olacağız. Asgard'tan uzakta, evrenin öbür ucunda hapsolmus olan Thor çikiş yolu bulamamaktadır. Üstelik güçlü çekici de yaninda değildir ve Asgard bir yikimin eşiğindedir."
+      "story": "YaklaÅŸmakta olan Norse kiyametine tanik olacaÄŸÄ±z. Asgard'tan uzakta, evrenin Ã¶bÃ¼r ucunda hapsolmus olan Thor Ã§ikiÅŸ yolu bulamamaktadÄ±r. Ãœstelik gÃ¼Ã§lÃ¼ Ã§ekici de yaninda deÄŸildir ve Asgard bir yikimin eÅŸiÄŸindedir."
     }   
   ]
 }
