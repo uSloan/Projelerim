@@ -68,8 +68,8 @@
           "name": "Lupita Nyong'o"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/walle.jpg",
-      "story": "Babasının ölümünden sonra Wakanda Kralı olan T'Challa, hakkı olan tahta sahip çıkmak için izole yaşayan ancak teknolojik açıdan ileri seviyede olan halkına geri döner. Ancak güçlü bir eski düşman yeniden ortaya çıktığında, T'Challa'nın yeterliliği, Wakanda'nın ve tüm dünyanın kaderini tehlikeye atan korkunç bir çatışmaya girince test edilir. İhanet ve tehlike ile karşı karşıya kalan genç kral, düşmanlarını yenmek, halkının güvenliğini ve yaşam biçimini korumak için müttefiklerini toplamalı ve gücünü serbest bırakmalıdır..."
+      "image": "https://i.hizliresim.com/vPQ75r.jpg",
+      "story": "BabasÃ½nÃ½n Ã¶lÃ¼mÃ¼nden sonra Wakanda KralÃ½ olan T'Challa, hakkÃ½ olan tahta sahip Ã§Ã½kmak iÃ§in izole yaÃ¾ayan ancak teknolojik aÃ§Ã½dan ileri seviyede olan halkÃ½na geri dÃ¶ner. Ancak gÃ¼Ã§lÃ¼ bir eski dÃ¼Ã¾man yeniden ortaya Ã§Ã½ktÃ½Ã°Ã½nda, T'Challa'nÃ½n yeterliliÃ°i, Wakanda'nÃ½n ve tÃ¼m dÃ¼nyanÃ½n kaderini tehlikeye atan korkunÃ§ bir Ã§atÃ½Ã¾maya girince test edilir. Ãhanet ve tehlike ile karÃ¾Ã½ karÃ¾Ã½ya kalan genÃ§ kral, dÃ¼Ã¾manlarÃ½nÃ½ yenmek, halkÃ½nÃ½n gÃ¼venliÃ°ini ve yaÃ¾am biÃ§imini korumak iÃ§in mÃ¼ttefiklerini toplamalÃ½ ve gÃ¼cÃ¼nÃ¼ serbest bÃ½rakmalÃ½dÃ½r..."
     },
     {
       "movie": "Saving Private Ryan",
