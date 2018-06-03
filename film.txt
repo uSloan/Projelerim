@@ -7,7 +7,7 @@
       "duration": "131 dakika",
       "director": "Shane Black",
       "tagline": "Zırhın arkasındaki gücü serbest bırak.",
-      "oyuncular": [
+      "cast": [
         {
           "name": "Robert Downey Jr."
         },
