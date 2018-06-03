@@ -1,0 +1,75 @@
+{
+  "movies": [
+    {
+      "movie": "Iron Man 3",
+      "year": 2013,
+      "rating": 7.2,
+      "duration": "131 dakika",
+      "director": "Shane Black",
+      "tagline": "Zýrhýn arkasýndaki gücü serbest býrak.",
+      "cast": [
+        {
+          "name": "Robert Downey Jr."
+        },
+        {
+          "name": "Gwyneth Paltrow"
+        },
+        {
+          "name": "Guy Pearce"
+        },
+        {
+          "name": "Ben Kingsley"
+        }
+      ],
+      "image": "https://i.hizliresim.com/4zZOGY.jpg",
+      "story": "Milyarder is adamý, kahraman ve mucit Tony Stark, bu sefer gucu ondan çok daha fazla, hatta sinirsiz bir düsmanla karsý karsýya kalýyor. Üstelik bu düþman, o çok sinirlendirecek bir hamle yaparak özel hayatini yok ediyor."
+    },
+	
+	
+    
+   
+   
+    {
+      "movie": "Black Panther",
+      "year": 2018,
+      "rating": 7.5,
+      "duration": "135 dakika",
+      "director": "Ryan Coogler",
+      "tagline": "Kralým çok yaþa.",
+      "cast": [
+        {
+          "name": "Chadwick Boseman"
+        },
+        {
+          "name": "Michael B. Jordan"
+        },
+        {
+          "name": "Lupita Nyong'o"
+        }
+      ],
+      "image": "https://i.hizliresim.com/vPQ75r.jpg",
+      "story": "Babasinin ölümünden sonra Wakanda Krali olan T'Challa, hakki olan tahta sahip çikmak için izole yasayan ancak teknolojik açidan ileri seviyede olan halkina geri döner."
+    },
+    {
+      "movie": "Thor: Ragnarok",
+      "year": 2017,
+      "rating": 7.9,
+      "duration": "130 min",
+      "director": "Taika Waititi",
+      "tagline": "Gök gürültüsü saltanatý olacak.",
+      "cast": [
+        {
+          "name": "Chris Hemsworth"
+        },
+        {
+          "name": "Tom Hiddleston"
+        }
+      ],
+      "image": "https://i.hizliresim.com/morZoy.jpg",
+      "story": "Yaklaþmakta olan Norse kiyametine tanik olacaðýz. Asgard'tan uzakta, evrenin öbür ucunda hapsolmus olan Thor çikiþ yolu bulamamaktadýr. Üstelik güçlü çekici de yaninda deðildir ve Asgard bir yikimin eþiðindedir."
+    }   
+  ]
+}
+
+
+
